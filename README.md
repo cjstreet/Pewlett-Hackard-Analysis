@@ -38,5 +38,6 @@ provide two additional queries or tables that may provide more insight into the 
 
 
 
+![Database_Schema](EmployeeDB.png)
 
 
