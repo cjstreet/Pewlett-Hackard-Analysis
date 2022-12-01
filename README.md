@@ -14,12 +14,12 @@ Inorder to do this Pewlett Hackard needs the following information:
 
 ### Results
 
-#### The Number of Retiring Employees by Title
+#### Number of Positions by Department
 
 * four major points
 
  
-#### The Employees Eligible for the Mentorship Program
+#### Employees Eligible for the Mentorship Program
 
 * four major points
 Images!! 
