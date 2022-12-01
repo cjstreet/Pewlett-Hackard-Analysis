@@ -10,17 +10,34 @@ As large numbers of employees retire, Pewlett Hackard is preparing for the futur
 Inorder to do this Pewlett Hackard needs the following information:
 * Who will be retiring in the next few years?
 * How many positions will the company need to fill in each department?
-* How many employees and which employees are eligible for the retirement package?
+* How many employees and which employees are eligible for the retirement package? 
+
+
+![Num_Employees_Per_Dept](Images/total_emp_per_dept.png)
+
+
+
 
 ### Results
 
-#### Number of Positions by Department
+#### Number of Positions by Title and Department
 
+* 72,458
+*  33118
 * four major points
 
+ ![Retirees_Per_Job Title](Images/count_retire_title.png)
+
+![Retirees_Per_Dept](Images/count_retire_retirees_dept.png)
+ 
+ #### Employees Eligible for Retirement Package
+ 
+  ![Eligible For Benenfits](Images/total_eligible_benefits.png)
  
 #### Employees Eligible for the Mentorship Program
 
+![Mentorship_Count](Images/count_dept_mentorshipgo.png)
+* 1549
 * four major points
 Images!! 
 
