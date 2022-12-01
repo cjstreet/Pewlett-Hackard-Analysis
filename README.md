@@ -1,6 +1,4 @@
-# Pewlett-Hackard-Analysis 
-
-## Mass Exodus
+# Pewlett-Hackard-Analysis: Mass Exodus
 
 
 ### Overview
