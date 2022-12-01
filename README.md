@@ -28,7 +28,7 @@ Inorder to do this Pewlett Hackard needs the following information:
 
  ![Retirees_Per_Job Title](Images/count_retire_title.png)
 
-![Retirees_Per_Dept](Images/count_retire_retirees_dept.png)
+![Retirees_Per_Dept](Images/count_retirees_dept.png)
  
  #### Employees Eligible for Retirement Package
  
@@ -36,10 +36,9 @@ Inorder to do this Pewlett Hackard needs the following information:
  
 #### Employees Eligible for the Mentorship Program
 
-![Mentorship_Count](Images/count_dept_mentorshipgo.png)
+![Mentorship_Count](Images/count_dept_mentorship.png)
 * 1549
 * four major points
-Images!! 
 
 ### Summary
 
