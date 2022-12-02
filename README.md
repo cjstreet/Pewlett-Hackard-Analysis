@@ -23,10 +23,12 @@ In order to do this Pewlett Hackard needs the following information:
 #### Number of Positions by Title and Department
 
 * 72,458
-*  33118
+* 33,118
 * four major points
 
  ![Retirees_Per_Job Title](Images/count_retire_title.png)
+ 
+ <br>
 
 ![Retirees_Per_Dept](Images/count_retirees_dept.png)
  
