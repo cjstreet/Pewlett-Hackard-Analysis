@@ -7,7 +7,7 @@ As large numbers of employees retire, Pewlett Hackard is preparing for the futur
 
 #### Data to collect and analyze
 
-Inorder to do this Pewlett Hackard needs the following information:
+In order to do this Pewlett Hackard needs the following information:
 * Who will be retiring in the next few years?
 * How many positions will the company need to fill in each department?
 * How many employees and which employees are eligible for the retirement package? 
