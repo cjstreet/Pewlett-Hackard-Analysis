@@ -3,7 +3,7 @@
 
 ### Overview
 
-As large numbers of employees retire, Pewlett Hackard is preparing for the future. The company is planning on offering a retirement package to eligible employees and determing which positions will need to be filled. Pewlett Hackard needs to prepare for possibly thousands of job openings to replace the retirees. 
+As large numbers of employees retire, Pewlett Hackard is preparing for the future. The company is planning to offer a retirement package to eligible employees. Also, they need to determine how many and which positions will need to be filled. Pewlett Hackard needs to prepare for possibly thousands of job openings to replace the retirees. 
 
 #### Data to collect and analyze
 
