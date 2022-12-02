@@ -23,7 +23,7 @@ the departments.
 
 ### Results
 
-#### Number of Retirees by Title and Department
+#### Number of Retirees by Title 
 
 * There are a total of 72,458 people retiring at PH in the next few years. That is roughly 30%.
 * Almost 26,000 employees are Senior Engineers.
@@ -35,8 +35,6 @@ the departments.
  
  <br>
 
-![Retirees_Per_Dept](Images/count_retirees_dept.png)
-33,118
  
  #### Employees Eligible for Retirement Package
  
