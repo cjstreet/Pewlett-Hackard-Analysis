@@ -60,7 +60,7 @@ Further recommendations are to examine the numbers of retirees from each departm
 eligiblity requirements for the mentorship program. PH needs more employees in the mentorship program to eventually take the place of the retirees. 
 
 It would be really helpful to be provided data dictionaries with the tables. This would help provide a better picture as to what is the relationship between 
-the tables and the varies "to_dates". For example, are the `to_dates` from the titles table the same as the 'to_dates in the salaries and dept_emp tables? 
+the tables and the varies `to_dates`. For example, are the `to_dates` from the titles table the same as the 'to_dates in the salaries and dept_emp tables? 
 provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 
