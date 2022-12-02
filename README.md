@@ -19,13 +19,13 @@ the departments.
 ![Num_Employees_Per_Dept](Images/total_emp_per_dept.png)
 
 
-
+<br>
 
 ### Results
 
 #### Number of Retirees by Title 
 
-* There are a total of 72,458 people retiring at PH in the next few years. That is roughly 30%.
+* There are a total of 72,458 people retiring at PH in the next few years. That is roughly 30% of the total number of employees.
 * Almost 26,000 employees are Senior Engineers.
 * Almost 25,000 employees are Senior Staff.
 * It makes sense that a lot of the employees retiring would be senior employees.
@@ -34,11 +34,6 @@ the departments.
  ![Retirees_Per_Job Title](Images/count_retire_title.png)
  
  <br>
-
- 
- #### Employees Eligible for Retirement Package
- 
-  ![Eligible For Benenfits](Images/total_eligible_benefits.png)
  
 #### Employees Eligible for the Mentorship Program
 
@@ -55,13 +50,17 @@ the departments.
 
 #### Insight
 
-Provide high-level responses to the following questions, 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Over 72,458 employees will be retiring over the next three years. These employees span seven titles and various departments.
+There are more than enough retirement-ready employees to mentor the next generation at PH. However, there only 1,549 eligible for the 
+mentorship. This issue requires attention. PH will need to hire and train a lot more employees over the next few years. 
 
 #### Recommendations
 
-It would be really helpful to be provided a schema and data dictionaries with the additional tables. This would help provide a better picture as to what is the relationship between the tables and the varies "to_dates". For example, are the `to_dates` from the titles table the same as the 'to_dates in the salaries and dept_emp tables? 
+Further recommendations are to examine the numbers of retirees from each department so managers can start hiring and training. Also, re-examine the
+eligiblity requirements for the mentorship program. PH needs more employees in the mentorship program to eventually take the place of the retirees. 
+
+It would be really helpful to be provided data dictionaries with the tables. This would help provide a better picture as to what is the relationship between 
+the tables and the varies "to_dates". For example, are the `to_dates` from the titles table the same as the 'to_dates in the salaries and dept_emp tables? 
 provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 
