@@ -12,6 +12,9 @@ In order to do this Pewlett Hackard needs the following information:
 * How many positions will the company need to fill in each department?
 * How many employees and which employees are eligible for the retirement package? 
 
+Currently, Pewlett Hackard employs 240,124 people. The chart below shows the distribution across
+the departments. 
+
 
 ![Num_Employees_Per_Dept](Images/total_emp_per_dept.png)
 
