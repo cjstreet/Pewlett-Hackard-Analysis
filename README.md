@@ -44,9 +44,14 @@ the departments.
  
 #### Employees Eligible for the Mentorship Program
 
+* A total of 1,549 employees are eligible for the mentorship program.
+* Roughly 33% of these employees are Senior Staff. 
+* The next highest group that is eligible are the Engineers.
+* Assistant Engineers's have only 78 employees eligible. 
+
 ![Mentorship_Count](Images/count_dept_mentorship.png)
-* 1549
-* four major points
+
+<br>
 
 ### Summary
 
@@ -58,6 +63,7 @@ Are there enough qualified, retirement-ready employees in the departments to men
 
 #### Recommendations
 
+It would be really helpful to be provided a schema and data dictionaries with the additional tables. This would help provide a better picture as to what is the relationship between the tables and the varies "to_dates". For example, are the `to_dates` from the titles table the same as the 'to_dates in the salaries and dept_emp tables? 
 provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 
